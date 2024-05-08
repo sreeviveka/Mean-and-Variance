@@ -1,3 +1,4 @@
+![image](https://github.com/sreeviveka/Mean-and-Variance/assets/169034272/327540e5-8803-480d-8ca3-ce45652327c2)
 #  Mean and variance of a discrete  distribution
 
 
@@ -49,9 +50,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+![image](https://github.com/sreeviveka/Mean-and-Variance/assets/169034272/99ac9bdc-06f9-4988-9d09-8698bcd1227b)
 
 
-# Output : 
+# Output : ![image](https://github.com/sreeviveka/Mean-and-Variance/assets/169034272/cb5ac91b-6f7f-44fc-96a0-6993edc299e0)
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
